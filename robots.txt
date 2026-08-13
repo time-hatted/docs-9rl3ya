@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-knl95v.goib138.site/sitemap.xml
